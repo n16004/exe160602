@@ -1,1 +1,5 @@
--rw-rw---- 1 penguin penguin 0  6月  2 10:59 file1
+合計 8
+-rw-rw-r-- 1 n16004 n16004 11  6月  2 10:51 README.md
+-rw-r----- 1 n16004 n16004  0  6月  2 10:59 file1
+-rw-rw-r-- 1 n16004 n16004  0  6月  2 11:40 file1_list
+-rw-rw-r-- 1 n16004 n16004 20  6月  2 10:59 home_list
